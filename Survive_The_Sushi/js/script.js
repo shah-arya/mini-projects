@@ -10,7 +10,6 @@ import "aos/dist/aos.css";
 
 // init AOS animation
 // AOS: special package or dependency that allows us to easily add animations to out html and css website.
-//
 AOS.init({
     duration: 1000,
     offset: 100,
