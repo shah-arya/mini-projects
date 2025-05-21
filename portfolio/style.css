@@ -108,10 +108,12 @@ body {
   }
   
   .profile_image {
-    width: 550px;
+    padding: 24px 20px;
+    width: 350px;
     height: fit-content;
     vertical-align: middle;
     margin: 5px;
+    border-radius: 100%;
   }
   
   /* Skills */
