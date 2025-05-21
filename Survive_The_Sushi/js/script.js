@@ -6,7 +6,7 @@ import sushi11 from '../assets/sushi-11.png'
 import sushi10 from '../assets/sushi-10.png'
 
 import AOS from "aos";
-import "aos/dist/aos.css";
+import "/aos/dist/aos.css";
 
 // init AOS animation
 // AOS: special package or dependency that allows us to easily add animations to out html and css website.
